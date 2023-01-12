@@ -3,5 +3,5 @@ This is basically a student attendence system app built using react with bootstr
 simply enter student rollno and name ,submit the details .
 once submitted student checkin time will be noted, also we can note checkout time.
 It has best view in both mobile and pc.
-No database is used to store data local storage is used,if you refresh the browser all data will be lost.
+No database is used to store data ,if you refresh the browser all data will be lost.
 [node_modules folder is not committed due to large size, need to install all modules and dependencies again]
